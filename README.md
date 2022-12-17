@@ -1,2 +1,3 @@
 # nestest-bincode
-A short script to encode the nestest log with Bincode
+
+A short script that uses Bincode to encode the nestest log.
